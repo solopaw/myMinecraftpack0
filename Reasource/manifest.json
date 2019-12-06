@@ -1,18 +1,18 @@
 {
   "format_version": 1,
   "header": {
-    "name": "test1 Food Addon",
-    "description": "Adds more food in Minecraft",
-    "uuid": "17eb68c7-aa97-486f-ae90-0125f1055659",
+    "name": "The Pack Of the FUTURE",
+    "description": "Welcome To The Pack Of the FUTURE",
+    "uuid": "5d88c6ce-db78-40bf-afba-e4c116fd3edb",
     "platform_locked": false,
     "min_engine_version": [1, 8, 0],
     "version": [0, 0, 1]
   },
   "modules": [
     {
-      "description": "Adds more food in Minecraft Bedrock",
+      "description": "Welcome To The Pack Of the FUTURE",
       "type": "resources",
-      "uuid": "4cdcf6a5-eab3-4842-90cb-e64a4a0851b0",
+      "uuid": "cb680e50-3a15-463e-807b-6eacae844154",
       "version": [0, 0, 1]
     }
   ]
