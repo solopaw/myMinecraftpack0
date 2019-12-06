@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "test1 Food Addon",
+    "description": "Adds more food in Minecraft",
+    "uuid": "17eb68c7-aa97-486f-ae90-0125f1055659",
+    "platform_locked": false,
+    "min_engine_version": [1, 8, 0],
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Adds more food in Minecraft Bedrock",
+      "type": "resources",
+      "uuid": "4cdcf6a5-eab3-4842-90cb-e64a4a0851b0",
+      "version": [0, 0, 1]
+    }
+  ]
+}
